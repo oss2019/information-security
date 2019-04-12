@@ -1,5 +1,5 @@
 # Information Security Resources 
-[![Issues](https://img.shields.io/github/issues-closed/oss2019/information-security.svg?style=flat-square)](https://github.com/oss2019/information-security/issues) [![Pull Requests](https://img.shields.io/github/issues-pr-closed/oss2019/information-security.svg?style=flat-square)](https://github.com/oss2019/information-security/pulls) [![License](https://img.shields.io/apm/l/vim-mode.svg?style=flat-square)](https://github.com/oss2019/information-security/blob/master/LICENSE) [![Gitter](https://img.shields.io/badge/chat-on%20gitter-ff006f.svg?style=flat-square)](https://gitter.im/osssoc/community) 
+[![Issues](https://img.shields.io/github/issues-closed/oss2019/information-security.svg?style=flat-square)](https://github.com/oss2019/information-security/issues) [![Pull Requests](https://img.shields.io/github/issues-pr-closed/oss2019/information-security.svg?style=flat-square)](https://github.com/oss2019/information-security/pulls) [![License](https://img.shields.io/apm/l/vim-mode.svg?style=flat-square)](https://github.com/oss2019/information-security/blob/master/LICENSE) [![Gitter](https://img.shields.io/badge/chat-on%20gitter-ff006f.svg?style=flat-square)](https://gitter.im/oss2019/community) 
 
 > **Those resources and tools are intended only for educational use in a controlled environment..**
 
