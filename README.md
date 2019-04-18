@@ -1,7 +1,7 @@
 # Information Security Resources 
 [![Issues](https://img.shields.io/github/issues-closed/oss2019/information-security.svg?style=flat-square)](https://github.com/oss2019/information-security/issues) [![Pull Requests](https://img.shields.io/github/issues-pr-closed/oss2019/information-security.svg?style=flat-square)](https://github.com/oss2019/information-security/pulls) [![License](https://img.shields.io/apm/l/vim-mode.svg?style=flat-square)](https://github.com/oss2019/information-security/blob/master/LICENSE) [![Gitter](https://img.shields.io/badge/chat-on%20gitter-ff006f.svg?style=flat-square)](https://gitter.im/oss2019/community) 
 
-> **Those resources and tools are intended only for educational use in a controlled environment..**
+> **Those resources and tools are intended only for educational use in a controlled environment.**
 
 **Information Security** is an umbrella term that incorporates dozens of niches within the industry. In security we can, for example, talk about digital forensics, or malware/ software detecting, auditing, pentesting, social engineering, and many other tracks. Each of these sub-categories within cybersecurity deserves a separate blog post, but, for the purposes of this piece, let’s focus on some important generic requirements that everyone needs before embarking on a successful career in IT Security.
 
