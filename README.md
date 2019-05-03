@@ -13,6 +13,7 @@ Metasploit, Nmap and Burp Suite are three great examples of platforms that can b
 
 ### Where can I learn? Here are a bunch of resources to get you going :)
 
+- [IT Security Lecture](https://github.com/bkimminich/it-security-lecture)
 - [Infosec Reference](https://github.com/rmusser01/Infosec_Reference)
 - [Awesome Security](https://github.com/sbilly/awesome-security)
 - [MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/index.htm)
